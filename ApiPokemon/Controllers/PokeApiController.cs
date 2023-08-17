@@ -125,16 +125,25 @@ namespace PokeAPI.Controllers
             List<string> evolutionNames = new List<string>();
 
             dynamic currentEvolution = evolutionChain["chain"];
-            do
+            while (currentEvolution != null)
             {
                 string name = currentEvolution["species"]["name"].ToString();
                 evolutionNames.Add(name);
 
-                currentEvolution = currentEvolution["evolves_to"].FirstOrDefault();
-            } while (currentEvolution != null);
+                var evolvesTo = currentEvolution["evolves_to"];
+                if (evolvesTo != null && evolvesTo.Count > 0)
+                {
+                    currentEvolution = evolvesTo[0];
+                }
+                else
+                {
+                    currentEvolution = null;
+                }
+            }
 
             return evolutionNames;
         }
+
 
 
 
