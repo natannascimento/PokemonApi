@@ -83,6 +83,10 @@ C:\dev\Esig\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csproj.CoreCompileInputs.
 C:\dev\Esig\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csproj.CopyComplete
 C:\dev\Esig\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.dll
 C:\dev\Esig\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.pdb
+C:\dev\Kotas\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csproj.AssemblyReference.cache
+C:\dev\Kotas\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csproj.CoreCompileInputs.cache
+C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\x86\sqlite3.dll
+C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\x64\sqlite3.dll
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\ApiPokemon.dll.config
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\ApiPokemon.dll
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\ApiPokemon.pdb
@@ -136,6 +140,8 @@ C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\roslyn\vbc.rsp
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\roslyn\VBCSCompiler.exe
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\roslyn\VBCSCompiler.exe.config
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\Antlr3.Runtime.dll
+C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\EntityFramework.dll
+C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\EntityFramework.SqlServer.dll
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\Microsoft.Web.Infrastructure.dll
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\Newtonsoft.Json.dll
@@ -150,6 +156,8 @@ C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\System.Web.WebPages.Deployment.dll
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\System.Web.WebPages.dll
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\System.Web.WebPages.Razor.dll
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\WebGrease.dll
+C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\EntityFramework.xml
+C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\EntityFramework.SqlServer.xml
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\Newtonsoft.Json.xml
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\System.Net.Http.Formatting.xml
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\System.Web.Helpers.xml
@@ -163,8 +171,9 @@ C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\System.Web.WebPages.Deployment.xml
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\System.Web.WebPages.Razor.xml
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\Antlr3.Runtime.pdb
 C:\dev\Kotas\ApiPokemon\ApiPokemon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\dev\Kotas\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csproj.AssemblyReference.cache
-C:\dev\Kotas\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csproj.CoreCompileInputs.cache
 C:\dev\Kotas\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csproj.CopyComplete
 C:\dev\Kotas\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.dll
 C:\dev\Kotas\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.pdb
+C:\dev\Kotas\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.Migrations.InitialCreate.resources
+C:\dev\Kotas\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csproj.GenerateResource.cache
+C:\dev\Kotas\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.Migrations.InitialCreate1.resources
